@@ -1,4 +1,4 @@
-<!--- # The Data Engineering Cookbook -->
+<!--- # The Data Engineering Cookbook
 
 <div align="center">
 	<img width="341" height="426" src="images/CookbookCover.jpg" alt="Data Engineering Cookbook">
@@ -8,7 +8,7 @@
 </div>
 
 <br>
-
+-->
 # Compilado de Links Úteis do Oracle Analytics Cloud (OAC)
 Essa biblioteca contém diversos links úteis para qualquer profissional trabalhando com o OAC. A curadoria é realizada junto a contribuidares que se interessam em ajudar, e buscamos manter esse repositório sempre atualizado.
 
@@ -70,9 +70,6 @@ Essa biblioteca contém diversos links úteis para qualquer profissional trabalh
 
 ### <a id="treinamentos"></a> Treinamentos
 - 📄 [OCI Data & AI Fast Track - For Data Analysts (PT-BR)](https://apexapps.oracle.com/pls/apex/f?p=133:180:115006348331322::::wid:3519) - Conteúdo muito bom com vídeos explicativos e ambiente efêmero que pode ser utilizado para os tutoriais
-- [Link 2](Adicionar)
-- [Link 3](Adicionar)
-- [Link 4](Adicionar)
 
 
 ### <a id="administracao"></a> Administração do Ambiente
@@ -82,13 +79,14 @@ Essa biblioteca contém diversos links úteis para qualquer profissional trabalh
 - 🎥 [Envio de e-mails utilizando o OAC](https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=487529345451132&parent=DOCUMENT&sourceId=1456233.1&id=2738492.1&_afrWindowMode=0&_adf.ctrl-state=170rxyy4p4_184)
 - 🎥 [Configuração de Usage Tracking, Temas Customizados e Opçõed de Prompt/View](https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=488942091294874&parent=DOCUMENT&sourceId=1456233.1&id=2789880.1&_afrWindowMode=0&_adf.ctrl-state=170rxyy4p4_903)
 - 📄 [Disaster Recovery Plan para o Oracle Analytics Cloud](https://blogs.oracle.com/analytics/post/implement-a-disaster-recovery-for-oracle-analytics-cloud-using-manual-switch-over)
-
+- 📕 [Federação e Sincronização de Usuários e Grupos Azure para IDCS (PT-BR)](https://github.com/brenorc/oac/blob/main/files/Federa%C3%A7%C3%A3o%20e%20Sincroniza%C3%A7%C3%A3o%20de%20Usu%C3%A1rios%20e%20Grupos%20Azure%20para%20IDCS.pdf)
 
 ### <a id="embedding"></a> Embedding
 - 🎥 [Embedando o OAC em um portal externo](https://apexapps.oracle.com/pls/apex/f?p=133:180:115006348331322::::wid:3519)
-
+- 📕 [Embedando o Oracle Analytics em outros Websites (PT-BR)](https://github.com/brenorc/oac/blob/main/files/Embedando%20o%20Oracle%20Analytics%20Cloud%20em%20outros%20websites.pdf)
+- 📕 [Embedando o Oracle Analytics no Oracle Field Service (PT-BR)](https://github.com/brenorc/oac/blob/main/files/Embedando%20o%20Oracle%20Analytics%20Cloud%20no%20Oracle%20Field%20Service.pdf)
 
 ### <a id="publisher"></a> BI Publisher
 - 📄 [Rodando um Relatório do BI Publisher com um XML customizado](https://medium.com/@brenorc/rodando-um-relat%C3%B3rio-do-bi-publisher-com-um-xml-customizado-a5e51c32146d)
 - 📄 [Trabalhando com e-Text Templates no OAC](https://medium.com/@brenorc/trabalhando-com-etext-templates-no-oac-e742bfb11fb3)
-- 📄 [Trabalhando com Parâmetros no BI Publisher (PT-BR)](files/Trabalhando com Parâmetros no BI Publisher.pdf)
+- 📕 [Trabalhando com Parâmetros no BI Publisher (PT-BR)](https://github.com/brenorc/oac/blob/main/files/Trabalhando%20com%20Par%C3%A2metros%20no%20BI%20Publisher.pdf)
