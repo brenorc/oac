@@ -39,7 +39,7 @@ Essa biblioteca contém diversos links úteis para qualquer profissional trabalh
 ### <a id="visualizacao"></a> Visualização de Dados
 - 📈 [Oracle Analytics Public Samples](https://oac-public.com/ui/dv/ui/home.jsp?anonymous=true&) - Diversos exemplos de Dashboards construídos pela Oracle
 - 📈 [Demos do Oracle Analytics Cloud por Indústria](https://demo.oraclecloud.com/?documentId=DEMO416&page=shell&shell=support&support=support-knowledge-document)
-- [Comunidade do Oracle Analytics Cloud / Server](https://community.oracle.com/products/oracleanalytics/categories/oac-oas)
+- 🌍 [Comunidade do Oracle Analytics Cloud / Server](https://community.oracle.com/products/oracleanalytics/categories/oac-oas)
 
 
 ### <a id="conexoes"></a> Conexões
