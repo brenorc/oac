@@ -79,6 +79,7 @@ Essa biblioteca contém diversos links úteis para qualquer profissional trabalh
 - 🎥 [Envio de e-mails utilizando o OAC](https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=487529345451132&parent=DOCUMENT&sourceId=1456233.1&id=2738492.1&_afrWindowMode=0&_adf.ctrl-state=170rxyy4p4_184)
 - 🎥 [Configuração de Usage Tracking, Temas Customizados e Opçõed de Prompt/View](https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=488942091294874&parent=DOCUMENT&sourceId=1456233.1&id=2789880.1&_afrWindowMode=0&_adf.ctrl-state=170rxyy4p4_903)
 - 📄 [Disaster Recovery Plan para o Oracle Analytics Cloud](https://blogs.oracle.com/analytics/post/implement-a-disaster-recovery-for-oracle-analytics-cloud-using-manual-switch-over)
+- 📄 [Compreendendo as Métricas Disponíveis na Console](https://docs.oracle.com/en/cloud/paas/analytics-cloud/acoci/administer-services.html#GUID-EE3BF439-B706-481A-8E42-8A3F14137822)
 - 📕 [Federação e Sincronização de Usuários e Grupos Azure para IDCS (PT-BR)](https://github.com/brenorc/oac/blob/main/files/Federa%C3%A7%C3%A3o%20e%20Sincroniza%C3%A7%C3%A3o%20de%20Usu%C3%A1rios%20e%20Grupos%20Azure%20para%20IDCS.pdf)
 
 ### <a id="embedding"></a> Embedding
