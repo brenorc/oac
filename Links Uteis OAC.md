@@ -1,14 +1,12 @@
-<!--- # The Data Engineering Cookbook
-
 <div align="center">
-	<img width="341" height="426" src="images/CookbookCover.jpg" alt="Data Engineering Cookbook">
+	<img src="files/OACLinksUteis.jpg" alt="OAC Links Úteis">
 	<br>
 	<br>
 	<br>
 </div>
 
 <br>
--->
+
 # Compilado de Links Úteis do Oracle Analytics Cloud (OAC)
 Essa biblioteca contém diversos links úteis para qualquer profissional trabalhando com o OAC. A curadoria é realizada junto a contribuidares que se interessam em ajudar, e buscamos manter esse repositório sempre atualizado.
 
@@ -16,6 +14,7 @@ Essa biblioteca contém diversos links úteis para qualquer profissional trabalh
 - Breno Comin
 - Isabella Alvarez
 - Gabriela Miyazima
+- Nataly Girotti
 
 ## Indíce:
 - [Conteúdo Geral](#geral)
@@ -32,6 +31,7 @@ Essa biblioteca contém diversos links úteis para qualquer profissional trabalh
 ### <a id="geral"></a>Conteúdo Geral
 
 - 💬 [Grupo Telegram (PT-BR)](https://bit.ly/telegramOAC) - Para tirar dúvidas e se manter atualizado
+- 📄 [Diferenças entre as versões do OAC](https://www.linkedin.com/pulse/oracle-analytics-cloud-oac-conhe%C3%A7a-suas-edi%C3%A7%C3%B5es-e-nataly-mafra-tjf6f?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BUoX%2FvcojQXeIavnI3C5hPg%3D%3D)
 - 📄 [Documentação Oficial do OAC](https://docs.oracle.com/en/cloud/paas/analytics-cloud/index.html)
 - 📄 [Novidades do Oracle Analytics](https://docs.oracle.com/en/cloud/paas/analytics-cloud/acswn/#GUID-CFF90F44-BCEB-49EE-B40B-8D040F02D476)
 
